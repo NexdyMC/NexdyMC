@@ -38,7 +38,7 @@ console.log(NexdyMC)
 ## My Skill
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=html,css" />
+          <img src="https://skillicons.dev/icons?i=html,css,js" />
      </a>     
 </p>
 
