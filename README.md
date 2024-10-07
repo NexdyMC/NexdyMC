@@ -11,7 +11,7 @@
 </p>
 
 
-```json
+```javascript
 let NexdyMC = [
     {
         "name": "NexdyMC",
