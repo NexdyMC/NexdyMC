@@ -45,7 +45,7 @@ console.log(NexdyMC)
 ## Tools
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=vscode,github,vercel" />
+          <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel" />
      </a>     
 </p>
 
