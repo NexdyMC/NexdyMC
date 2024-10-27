@@ -20,8 +20,10 @@ let NexdyMC = [
             "Creator Texture Pack"
         ],
         "skils": [
+            "JSON",
             "Html",
             "Css",
+            "Javascript",
             "Texture Pack",
             "Editing"
         ],
