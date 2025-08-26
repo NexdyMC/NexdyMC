@@ -24,6 +24,7 @@ let NexdyMC = [
             "Html",
             "Css",
             "Javascript",
+            "PHP",
             "Texture Pack",
             "Editing"
         ],
@@ -40,7 +41,7 @@ console.log(NexdyMC)
 ## My Skill
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=html,css,js" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,php" />
      </a>     
 </p>
 
