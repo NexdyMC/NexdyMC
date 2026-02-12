@@ -5,7 +5,7 @@
 
 <p align="center"> 
      <a href="https://github.com/NexdyMC/NexdyMC/edit/main/README.md">
-          <img src="profil.png" width="150px" style="border-radius:100%;">
+          <img src="profil.png" width="40%" height="40%" style="border-radius: 100%;">
      </a>
      
 </p>
