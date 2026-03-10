@@ -42,7 +42,7 @@ console.log(NexdyMC)
 ## My Skill
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=html,css,js,php,python" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,php,python,c" />
      </a>     
 </p>
 
