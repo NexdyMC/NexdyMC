@@ -12,21 +12,21 @@
 ## Skill Programming
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,c,bash" />
+          <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cs,bash" />
      </a>     
 </p>
 
 ## Tools
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=vscode,github,netlify,vercel,figma,laravel" />
+          <img src="https://skillicons.dev/icons?i=github,git,netlify,vercel,figma,laravel" />
      </a>     
 </p>
 
 ## Software
 <p align="center">
      <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=vscode,godot,blender" />
+          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,blender" />
      </a>     
 </p>
 
