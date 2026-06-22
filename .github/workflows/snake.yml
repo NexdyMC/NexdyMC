@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  schedule: # Berjalan otomatis setiap 12 jam
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Bisa dijalankan manual kapan saja
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-snake-game
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          # Username GitHub kamu otomatis terdeteksi
+          github_user_name: ${{ github.repository_owner }}
+          # File yang akan dihasilkan
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            
+      - name: Push GitHub Snake ke Output Branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
