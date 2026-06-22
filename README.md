@@ -1,39 +1,15 @@
-<h1 align="center">Hi 👋, I'm Nexdy Creator</h1>
+<h1 align="center">Hi 👋, I'm Nexdy Experiment</h1>
 <p align="center">
      <a href="👋 Hi, I’m @NexdyMC">
 </p>
 
+
 <p align="center"> 
-     <a href="https://github.com/NexdyMC/NexdyMC/edit/main/README.md">
-          <img src="profil.png" width="40%" height="40%" style="border-radius: 100%;">
-     </a>
-</p>
-
-## Skill Programming
-<p align="center">
-     <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cs,bash" />
-     </a>     
-</p>
-
-## Tools
-<p align="center">
-     <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=github,git,netlify,vercel,figma,laravel" />
-     </a>     
-</p>
-
-## Software
-<p align="center">
-     <a href="https://github.com/NexdyMC">
-          <img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,blender" />
-     </a>     
+     <img src="profil.png" width="40%" height="40%" style="border-radius: 100%;">
 </p>
 
 
-
-## Connect With Me
-<div align="left">
+<div align="center">
      <a href="https://tiktok.com/@wincraftmc" target="_blank">
           <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" height="30" alt="instagram logo"  />
      </a>
@@ -48,7 +24,45 @@
      </a>
 </div>
 
-## Electronic Devices
+---
+### Skill Programming:
+<p align="center">
+     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cs,bash" />   
+</p>
+
+---
+
+### Tools
+<p align="center">
+     <img src="https://skillicons.dev/icons?i=github,git,netlify,vercel,figma,laravel" />
+</p>
+
+---
+
+### Software
+<p align="center">    
+     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,godot,blender" />
+</p>
+
+
+---
+
+### Statistik GitHub
+<div align="center">
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NexdyMC&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexdyMC&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+<div align="center">
+   <img src="https://streak-stats.demolab.com?user=NexdyMC&theme=radical&hide_border=true&random=123" />
+</div>
+
+---
+
+### Electronic Devices
 | Android | Laptop |
 | :--- | :--- |
 | <img src="https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white"> | <img src="https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white"> |
+
