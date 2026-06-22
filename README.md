@@ -66,5 +66,4 @@
 | <img src="https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white"> | <img src="https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white"> |
 
 ---
-![GitHub Snake Animation](https://raw.githubusercontent.com/NexdyMC/NexdyMC/output/github-snake.svg)
-
+![GitHub Snake Animation](https://raw.githubusercontent.com/NexdyMC/NexdyMC/output/github-snake-dark.svg)
