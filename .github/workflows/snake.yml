@@ -1,9 +1,10 @@
-name: Generate Snake
+name: Generate Snake Blue Dark
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -14,9 +15,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Bagian ini sudah di-kustomisasi agar berwarna gelap kebiruan yang estetik
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake-dark.svg?color_snake=#4b70f5&color_dots=#1a1953,#162e93,#2f2fe4,#3dc2ec,#8fcfec
             
       - name: Push GitHub Snake ke Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
