@@ -34,7 +34,7 @@
 
 ### Tools
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=github,git,netlify,vercel,figma,laravel" />
+     <img src="https://skillicons.dev/icons?i=github,git,netlify,vercel,figma,laravel,tailwind" />
 </p>
 
 ---
