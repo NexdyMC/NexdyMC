@@ -49,10 +49,8 @@
 
 ### Statistik GitHub
 <div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NexdyMC&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NexdyMC&layout=compact&theme=radical&hide_border=true" />
-
+     <img src="./assets/stats/stats.svg">
+     <img src="./assets/stats/top-langs.svg">
 </div>
 
 <div align="center">
