@@ -54,7 +54,7 @@
 </div>
 
 <div align="center">
-   <img src="https://streak-stats.demolab.com?user=NexdyMC&theme=radical&hide_border=true&random=123" />
+   <img src="https://streak-stats.demolab.com?user=NexdyMC&theme=tokyonight&hide_border=true&random=123" />
 </div>
 
 ---
