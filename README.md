@@ -27,7 +27,7 @@
 ---
 ### Skill Programming:
 <p align="center">
-     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cs,bash" />   
+     <img src="https://skillicons.dev/icons?i=html,css,js,java,php,python,c,cs,bash,lua" />   
 </p>
 
 ---
